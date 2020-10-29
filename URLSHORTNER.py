@@ -20,7 +20,7 @@ print(Fore.YELLOW+"\n ᴄʀᴇᴀᴛᴇᴅ ʙʏ 👑 мя.αиοиγмουѕ �
 
 print(Style.RESET_ALL)
 while(True):
-  C1 = int(input(Fore.GREEN+''  
+  C1 = int(input(Fore.GREEN+'''  
 {+} 1.URLshort
 {+} 2.EXIT\n>>> '''))
   
