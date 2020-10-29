@@ -20,7 +20,7 @@ print(Fore.YELLOW+"\n ᴄʀᴇᴀᴛᴇᴅ ʙʏ 👑 мя.αиοиγмουѕ �
 
 print(Style.RESET_ALL)
 while(True):
-  C1 = int(input('''  
+  C1 = int(input(Fore.GREEN+''  
 {+} 1.URLshort
 {+} 2.EXIT\n>>> '''))
   
@@ -33,7 +33,7 @@ while(True):
      print()
      s = shortener.tinyurl.short(link)
      print(s)
-     
+     print(Style.RESET_ALL)
   if C1 == 2 :
      print(Fore.YELLOW+"\nHave a good day !! ")
      break
